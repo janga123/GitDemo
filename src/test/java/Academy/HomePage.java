@@ -57,8 +57,9 @@ public class HomePage extends base{
 	public void teardown()
 	{
 		
-		driver.close();
-	
+		System.out.println("GIT Test");
+		System.out.println("GIT Test1");
+		System.out.println("GIT Tes2");
 		
 	}
 
